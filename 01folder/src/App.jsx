@@ -1,11 +1,11 @@
 import React from 'react'
+import Card from './Components/Card'
 
 const App = () => {
   return (
-    <>
-      <h1>Learning React</h1>
-    </>
+    <Card />
   )
 }
+
 
 export default App
